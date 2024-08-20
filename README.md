@@ -1,5 +1,5 @@
 # dAiv Code_Challenge[2024]
- 
+- [Homepage](https://daiv-cnu.github.io/contest/coding/code_challenge[2024].html)
 ## ✒️ 대회 상세 소개
 동아리원 여러분 안녕하세요? 2024년 다이브의 인공지능 대회 시리즈의 첫 번째 테마, Code Challenge가 드디어 개최됩니다!! 🔥
 인공지능 알고리즘 문제를 풀어보는 경험을 통해 기초 알고리즘의 공부 필요성을 인지하고 성취도를 평가할 수 있도록 유도하기 위한 목적을 가지고 있으며,
