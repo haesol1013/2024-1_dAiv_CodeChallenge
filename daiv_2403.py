@@ -12,6 +12,6 @@ def pulling(matrix):
 
 
 size = int(input())
-# matrix = [[int(x) for x in input().split(" ")] for y in range(size)]
-matrix = [[-6, -8, 7, -4], [-5, -5, 14, 11], [11, 11, -1, -1], [4, 9, -2, -4]]
+matrix = [[int(x) for x in input().split(" ")] for y in range(size)]
+# matrix = [[-6, -8, 7, -4], [-5, -5, 14, 11], [11, 11, -1, -1], [4, 9, -2, -4]]
 print(pulling(matrix))
